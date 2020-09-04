@@ -1,7 +1,7 @@
 ---
 layout: 2020_default_ua
 permalink: /2020_ua/team
-title: Team Member
+title: Міжнародний програмний комітет
 ---
   <!--background color-->
   <script type="text/javascript">
@@ -10,29 +10,29 @@ title: Team Member
 
   <!-- this section wraps the team members as a container-->
   <section class="cf team-container team-container-top black-frame">
-    <h1 class="team-h1">List 1</h1>
+    <h1 class="team-h1">МІЖНАРОДНИЙ ПРОГРАМНИЙ КОМІТЕТ</h1>
   
-    {% for team in site.data.twenty_16.teams_1 %}
+    {% for team in site.data.twenty_20_ua.teams %}
     <div class="team-member">
-      <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
+      <!-- <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}"> -->
       <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
-       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
+       <!-- <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a> -->
     </div> 
     {% endfor %}
   </section>
 
-  <section class="cf team-container black-frame">
+ <!--  <section class="cf team-container black-frame">
     <h1 class="team-h1">List 2</h1>
 
     {% for team in site.data.twenty_16.teams_2 %}
     <div class="team-member">
       <img class="team-photo" src="../css/2016_style/img/team/{{ team.img }}">
-      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar-->
+      <!-- https://s.gravatar.com/avatar/0000000000000000?s=160 for Gravatar
       <h3>{{ team.name }}</h3>
       <span>{{ team.position }}</span>
        <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
     </div> 
     {% endfor %} 
- </section>
+ </section> -->
