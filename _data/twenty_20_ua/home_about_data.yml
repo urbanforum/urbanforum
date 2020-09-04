@@ -24,6 +24,6 @@
  
 - inverted:
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
+  name: Інформаційний буклет
+  info: Завантажити або читати буклет
   link: /2020_ua/booklet
