@@ -1,26 +1,103 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Petro Kulikov
+  position: Professor, Rector of KNUCA (Chairman)
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Henryk Sobczuk
+  position: Professor, Director of the Representation of the Polish Acade-my of Sciences in Kyiv
+- name: Vyacheslav Nehoda
+  position: Deputy Minister of the Ministry for Communities and Territories Development of Ukraine
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Andrii Klochko 
+  position: Head of the Committee on State Building, Local Governance, Regional and Urban Development of the Verkhovna Rada of Ukraine
+
+- name: Oleksandr Kopylenko 
+  position: Professor, Corresponding member National Academy of Sci-ences of Ukraine, Academician National Academy of Legal Sciences of Ukraine, Honored Lawyer of Ukraine
+
+- name: Peter Möller
+  position: Managing Director of the Eberhard-Schöckfoundation (Germany)
+
+- name: Toralph Weise 
+  position: Director of the Stiftung zur Förderung des Bauwesens (SFB) (Germany) 
+
+- name: Olga Garan
+  position: Professor of Odessa I.I.Mechnikov National University
+
+- name: Mykola Holovatyi
+  position: Professor of MAUP
+
+- name: Vasyl Derevinskyi
+  position: Professor of KNUCA
+
+- name: Mykola Dyomin 
+  position: Professor of KNUCA
+
+- name: Yulia Ivashko
+  position: Professor of KNUCA
+
+- name: Z. Ilski 
+  position: Professor of Wrocław University of Science and Technology (Poland) 
+
+- name: Justyna Kobylarczyk
+  position:  professor of Krakow University of Technology (Poland)
+
+- name: Tomasz Kozlowski
+  position: professor of Krakow University of Technology (Poland)
+
+- name: Iryna Kresina
+  position: professor, Head of the Department of Political Science of legal problems, V.M. Koretsky Institute of State and Law of Nation-al Academy of Sciences of Ukraine 
+
+- name: Michał Krupa
+  position: professor of Krakow University of Technology (Poland)
+
+- name: Dominika Kuśnierz-Krupa 
+  position: professor of Krakow University of Technology (Poland)
+
+- name: Valentyn Malynovsyi
+  position: professor of Lutsk National Technical University 
+
+- name: Andrzej Malkewicz 
+  position: professor (Poland)
+
+- name: Alirza Mamedov
+  position: associate professor of KNUCA
+
+- name: Ihor Mamontov
+  position: Honored Lawyer of Ukraine, associate professor of KNUCA
+
+- name: Svitlana Naumkina
+  position: professor of South Ukrainian National Pedagogical University named after K.D. Ushynsky
+
+- name: Krystyna Paprzyca 
+  position: professor of Krakow University of Technology (Poland)
+
+- name: Yevgen Pereguda 
+  position: professor of KNUCA
+
+- name: Vitalii Ploskyi
+  position: professor of KNUCA
+
+- name: Viktor Timokhin
+  position: professor of KNUCA
+
+- name: Volodymyr Tkachenko 
+  position: professor of KNUCA
+
+- name: Henadii Tonkacheiev
+  position: professor of KNUCA
+
+- name: Obid Tursunov
+  position: professor of Tashkent Institute of Irrigation and Agricultural Mechanization Engineers (Uzbekiztan)
+
+- name: Oleh Khalabudenko 
+  position: associate professor of KNUCA
+
+- name: Yevhen Kharitonov 
+  position: professor of National University "Odessa Law Academy", Cor-responding Member of the National Academy of Legal Sciences of Ukraine, Honored Worker of Science and Technology of Ukraine
+
+- name: Denys Chernyshev 
+  position: professor of KNUCA
+
+- name: Denys Yakovlev 
+  position: professor of National University "Odessa Law Academy"
+
+- name: Yelda Aydın Türk 
+  position: Professor of Karadeniz Technical University (Turkey)

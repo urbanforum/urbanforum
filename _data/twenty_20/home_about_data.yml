@@ -2,34 +2,28 @@
   img: icon-about.jpeg
   name: PURPOSE, ORGANIZERS, CONFERENCES
   info: Information about the purpose, organizers and conferences
-  link: /about
+  link: /2020/about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
+  name: Agenda (Updating)
   info: Check out the agenda
-  link: /agenda
+  link: /2020/agenda
 
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
+  name: INTERNATIONAL PROGRAMME COMMITTEE
+  info: Information about the International Programme Committee
+  link: /2020/team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
-  link: /venue
+  link: /2020/venue
 
 - inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
-- inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
+  name: Informational Booklet
   info: View or Download our event booklet
-  link: /booklet
+  link: /2020/booklet
