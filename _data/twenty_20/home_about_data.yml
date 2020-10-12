@@ -6,8 +6,8 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda (Updating)
-  info: Check out the agenda
+  name: Programme (Updating)
+  info: Programme of the Forum
   link: /2020/agenda
 
 - inverted: 
@@ -19,7 +19,7 @@
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: Forum location (for offline participants)
   link: /2020/venue
 
 - inverted: 
