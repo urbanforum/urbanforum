@@ -6,7 +6,7 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Programme (Updating)
+  name: Programme
   info: Programme of the Forum
   link: /2020/agenda
 
@@ -30,12 +30,12 @@
 
 - inverted: timeline-inverted
   img: book-icon.png
-  name: Book "Spatial Planning" (Draft)
+  name: Book "Spatial Planning"
   info: <a href="https://drive.google.com/file/d/1I1lUt0KFcZjxMSuWyJbCaYfNqW0pV1KY/preview">[Volume 1]</a>, <a href="https://drive.google.com/file/d/1I2-cQmkNsVIB88gTHrJbZKfQoRgjuWIa/preview">[Volume 2]</a>
   link: /2020/spacebook
 
 - inverted:
   img: law-book-icon.jpg
   name: Book "Construction Law"
-  info: Draft...
+  info: 
   link: /2020_ua/lawbook

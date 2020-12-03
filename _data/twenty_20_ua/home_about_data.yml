@@ -6,7 +6,7 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Програма (оновлюється)
+  name: Програма
   info: Програма виступів та подій
   link: /2020_ua/agenda
 
@@ -30,12 +30,12 @@
 
 - inverted: timeline-inverted
   img: book-icon.png
-  name: Збірник "Просторове планування" (проект)
+  name: Збірник "Просторове планування"
   info: <a href="https://drive.google.com/file/d/1I1lUt0KFcZjxMSuWyJbCaYfNqW0pV1KY/preview">[Том 1]</a>, <a href="https://drive.google.com/file/d/1I2-cQmkNsVIB88gTHrJbZKfQoRgjuWIa/preview">[Том 2]</a>
   link: /2020_ua/spacebook
 
 - inverted:
   img: law-book-icon.jpg
   name: Збірник "Будівельне право"
-  info: Попередня версія...
+  info: 
   link: /2020_ua/lawbook
